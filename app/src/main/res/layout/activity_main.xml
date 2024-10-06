@@ -10,10 +10,10 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="210dp"
-        android:layout_height="101dp"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
         android:layout_marginBottom="32dp"
-        android:text="About Me"
+        android:text="To Calculator"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.507"
