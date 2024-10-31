@@ -142,5 +142,9 @@ public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.ContactV
             btnDelete = itemView.findViewById(R.id.btn_delete);
         }
     }
+
+    public void testF(){
+        
+    }
 }
 
